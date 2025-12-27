@@ -1,0 +1,6 @@
+127.0.0.1, username, password
+Command b'hi'executed by 127.0.0.1
+Command b'whoami'executed by 127.0.0.1
+Command b'ls'executed by 127.0.0.1
+Command b'cat jumpbox1.conf'executed by 127.0.0.1
+127.0.0.1, username, hi
